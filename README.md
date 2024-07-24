@@ -1,16 +1,30 @@
-## Hi there 👋
-My name is Trang Truong Giang. Nice to meet you!!!
-<!--
-**Jerry-Trang/Jerry-Trang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Awesome Portfolio
 
-Here are some ideas to get you started:
+## Table of Contents
+- [Projects](#projects)
+- [Skills](#skills)
+- [About Me](#about-me)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Project 1: Description and link
+- Project 2: Description and link
+
+## Skills
+- Skill 1
+- Skill 2
+
+## About Me
+Write a paragraph about yourself.
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/yourprofile)
+
+## Acknowledgements
+- Mention any acknowledgements or thank you notes.
+
+## License
+This project is licensed under the [MIT License](LICENSE).

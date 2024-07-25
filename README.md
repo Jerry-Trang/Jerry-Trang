@@ -24,7 +24,7 @@ Hi wiewers, my name is Trang Trường Giang. I'm a student still under-graduate
 
 ## 📧 Contact
 - Email: trangtruonggiang2015@gmail.com
-- LinkedIn: [Connect with me](www.linkedin.com/in/trang-trường-giang)
+- LinkedIn: www.linkedin.com/in/trang-trường-giang
 
 )
 

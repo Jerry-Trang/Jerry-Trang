@@ -9,23 +9,26 @@
 - [License](#license)
 
 ## 💼 Projects
-- **Project 1:** Description and [Live Demo](#)
+- **Project 1:** Description and [https://jerry-trang.github.io/](#)
 - **Project 2:** Description and [GitHub Repo](#)
 
 ## 💻 Skills
 - JavaScript, HTML, CSS
-- React, Node.js, MongoDB
+- React.js, Bootstrap, Tailwind
+- Firebase, Node.js
+- Python
+- C++
 
 ## 🧑‍💼 About Me
-I'm a passionate developer with a love for creating meaningful projects that make a difference. When I'm not coding, you can find me exploring new technologies or enjoying a good cup of coffee.
+Hi wiewers, my name is Trang Trường Giang. I'm a student still under-graduate in the University of Information Technology (UIT-VNUHCM), my major is Computer Science. I am an industrious, hard-working person who loves to explore and willing to learn new technologies for suitable position. I love creating tech-related products. My goal is to have real-life experiences and study more in Information Technology field.
 
 ## 📧 Contact
-- Email: your.email@example.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/yourprofile)
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+- Email: trangtruonggiang2015@gmail.com
+- LinkedIn: [Connect with me](www.linkedin.com/in/trang-trường-giang)
+
+)
 
 ## 🙏 Acknowledgements
-- Special thanks to [Name] for their valuable contributions.
 - Built with ❤️ and ☕.
 
 ## 📝 License
